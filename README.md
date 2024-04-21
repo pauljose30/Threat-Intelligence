@@ -1,6 +1,4 @@
 # Threat-Intelligence Platform
-Aoutomate the  process of threat intelligence using python
-Threat Intelligence
 Introduction
 In today’s digital landscape, traditional cybersecurity measures are no longer enough to protect against advanced and persistent threats. The Threat Intelligence System Implementation project aims to establish a proactive approach to cybersecurity by creating a comprehensive threat intelligence system.
 The goal of this project is to build a website, create a cutting-edge threat intelligence system, and implement it so that the organization can recognize, evaluate, and counteract possible cyber threats before they become security issues. The company will be better able to protect digital assets, ensure business continuity, and fortify its overall cybersecurity posture by using the capabilities of threat data aggregation, sophisticated analytics, and real-time alerts.
